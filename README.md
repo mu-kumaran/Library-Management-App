@@ -1,6 +1,6 @@
 Library Management App
 -----------------------
-In this project, we will create a Library Management Application which will have the following functionalities,
+In this project, we will create a Library Management Application using Python programming which will have the following functionalities,
 - Fetch all the available books in the library
 - Add new books
 - Lend books
